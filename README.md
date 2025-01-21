@@ -36,7 +36,7 @@ for creating column ,We have to use Stacked Column chart in build tab and I am t
 #2)Stacked Column <a href="https://github.com/Venkat-Shakamudi/Powerbi/blob/main/Stacked%20Column.png">StackedColumn</a>
 Stacked Column Chart is same as column chart but we have to take region into legend, in which sales are divided by regions.
 
-#3)pie chart
+#3)pie chart <a href="https://github.com/Venkat-Shakamudi/Powerbi/blob/main/pie.png">PieChart</a>
 For creating pi chart we have to use pie chart in build ,For creating pie chart we have to choose column which are having values less than 5 like region having only 4 different values like north ,south ,west, east .while creating a pi chart we can use detail labels where we can Enable detail label for all ,so that our presentation become easy.
 
 #4)Donut Chart
