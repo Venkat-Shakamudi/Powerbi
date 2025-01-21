@@ -1,7 +1,8 @@
 # Powerbibasics 
 I have started Writing thesis on power bi from basics so Wanted to upload on github.
+
 #Dataset used 
-- <a href="
+- <a href="https://github.com/Venkat-Shakamudi/Powerbi/blob/main/Sample%20-%20Superstore.xlsx">dataset</a>
 Why power BI?
 1) Search volume on chrome, When we see the google trends power bi has the maximum search volume compared to other tools like tableau in the past five years.
 2)maximum features 
